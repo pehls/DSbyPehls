@@ -31,12 +31,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CleverProgrammers/react-portfolio.git"
+    "url": "git+https://github.com/pehls/DSbyPehls.git"
   },
   "author": "Gabriel Pehls <gabrielpehls@hotmail.com> (https://github.com/pehls)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CleverProgrammers/react-portfolio/issues"
+    "url": "https://github.com/pehls/DSbyPehls/issues"
   },
-  "homepage": "https://github.com/CleverProgrammers/react-portfolio#readme"
+  "homepage": "https://github.com/pehls/DSbyPehls#readme"
 }
